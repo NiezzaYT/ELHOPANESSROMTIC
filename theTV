@@ -39,8 +39,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/fd4360b1c12c4375848c8f085fd51d41/index
 https://list.iptvcat.com/my_list/s/64c9128636163c0160176a2d27e674f6.m3u8
 
 #EXTINF:-1 group-title="news;lokal" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews
-https://list.iptvcat.com/my_list/s/c611ef07f5eaeec44bb059c9d6bd9b64.m3u8
-https://list.iptvcat.com/my_list/s/df6ae87b6b874ad23b9f75aee4c6a21a.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
