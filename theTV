@@ -41,6 +41,9 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="news;lokal" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
+#EXTINF:-1 group-title="news;lokal" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
