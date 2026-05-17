@@ -1,65 +1,110 @@
 #EXTM3U
-#EXTINF:-1,TRANS 7 HD
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1,TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1,&FLIX HD
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
-#EXTINF:-1,&TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
-#EXTINF:-1,Animal Planet HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
-#EXTINF:-1,Animax HD
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-#EXTINF:-1,ANTV HD
-https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
-#EXTINF:-1,Arirang HD
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
-#EXTINF:-1,Asian Food Network HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
-#EXTINF:-1,ABC Australia HD
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
-#EXTINF:-1,AXN HD
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
-#EXTINF:-1,Cartoonito HD
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
-#EXTINF:-1,Cartoon Network HD
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-#EXTINF:-1,CinemaWorld HD
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
-#EXTINF:-1,Cinemax
-https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-#EXTINF:-1,Cinemax HD
-http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
-#EXTINF:-1,HBO
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:-1,HBO HD
-http://103.58.160.157:8278/720-HBO/playlist.m3u8
-#EXTINF:-1,HBO Hits
-https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:-1,HBO Hits HD
-http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
-#EXTINF:-1,HBO Signature
-https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:-1,HBO Signature HD
-http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
-#EXTINF:-1,Warner TV
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-#EXTINF:-1,Warner TV HD
-http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
-#EXTINF:-1,DreamWorks
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-#EXTINF:-1,DreamWorks HD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1,HGTV HD
-https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
-#EXTINF:-1,Kix HD
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
-#EXTINF:-1,HBO Family
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:-1,HBO Family HD
-http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
-#EXTINF:-1,AXN
-http://103.58.160.157:8278/720-AXN/playlist.m3u8
-#EXTINF:-1,Animax SD
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+
+############################
+
+DarkSkull7 BeinSports
+
+############################
+
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="Leaked Bein Sports 1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports.jpg?raw=true" group-title="DarkSkull7 BeinSports",Leaked Bein Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="Leaked Bein Sports 2" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports2.jpg?raw=true" group-title="DarkSkull7 BeinSports",Leaked Bein Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="Leaked Bein Sports 3" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports3.jpg?raw=true" group-title="DarkSkull7 BeinSports",Leaked Bein Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="Leaked Bein Sports 4" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports4.jpg?raw=true" group-title="DarkSkull7 BeinSports",Leaked Bein Sports 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports5.id" tvg-name="Leaked Bein Sports 5" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports5.jpg?raw=true" group-title="DarkSkull7 BeinSports",Leaked Bein Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+############################
+
+DarkSkull7 DAZN
+
+############################
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 1
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403744
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 2
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403745
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 3
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403746
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 4
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403747
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 5
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403748
+
+#EXTINF:-1 group-title="DarkSkull7 DAZN",Leaked DAZN 6
+http://dream4k.org:80//Aldtv24_600256/I3ATMC28/403749
+
+############################
+
+TV Lokal Indonesia
+
+############################
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/rcti.jpg?raw=true" group-title="TV Lokal Indonesia",RCTI
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/mnctv.jpg?raw=true" group-title="TV Lokal Indonesia",MNCTV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/gtv.jpg?raw=true" group-title="TV Lokal Indonesia",GTV
+https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",INEWS
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",SCTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",INDOSIAR
+https://cdnjkt913.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",TRANS 7
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",ANTV
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",KOMPAS TV
+https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+
+#EXTINF:-1 group-title="TV Lokal Indonesia",METRO TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
