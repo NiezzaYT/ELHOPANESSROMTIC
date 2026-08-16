@@ -55,11 +55,6 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="Indonesia Channels", TRIBUN NEWS
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png",TVRI World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/500px-TVRI-World.svg.png" group-title="Indonesia Channels",TVRI WORLD
@@ -74,23 +69,11 @@ https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-32777
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI (1)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/250px-RCTI_logo_2015.svg.png" group-title="INDONESIA",RCTI (2)
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 
-#EXTM3U
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (1)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png" group-title="INDONESIA",MNC TV (2)
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
