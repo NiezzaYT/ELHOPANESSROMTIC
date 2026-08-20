@@ -16,9 +16,12 @@ https://video.detik.com/transtv/smil:transtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="Nasional",CNN Indonesia (LIVE)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="INDONESIA",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="INDONESIA TV" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -29,11 +32,12 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="auto.inews" group-title="INDIHOME" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg",INEWS
-https://cdnbal1.indihometv.com/atm/DASH/inews/master.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-logo="https://object-streamo.emonaja.com/img/inews.png",iNews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="news;lokal" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
