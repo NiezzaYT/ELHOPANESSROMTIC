@@ -5,12 +5,11 @@
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.080000,
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Indonesia Channels",TransTV
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://ktpremium.world:2095/xm1001/4757410/73608
+https://bigdickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="Indonesia Channels",CNN Indonesia 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -18,12 +17,11 @@ http://ktpremium.world:2095/xm1001/4757410/73608
 #KODIPROP:inputstream.adaptive.license_key=5af79fbb6d3d4a01ae7dfe8c9c8b54d6:4211c75cbb9c340fa3987c5b731537bd
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIndonesiaHD/mediampd/CNNIndonesiaHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Indonesia Channels",Trans7
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=240x426,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-http://ktpremium.world:2095/xm1001/4757410/73609
+https://bigdickgital.semar26.xyz/fetch?id=trans7.m3u8&auth=trans7semar25
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="INDONESIA TV" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
