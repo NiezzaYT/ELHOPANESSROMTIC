@@ -12,11 +12,11 @@
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="Indonesia Channels",TransTV (digital)
-https://ogietv.biz.id:443/Livetv/234/1312.m3u8
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="Indonesia Channels" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV
+https://delivery.macan.network/stream/id_transtv/playlist.m3u8?token=4rcee&v=20200807
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-t7.png" group-title="Indonesia Channels",Trans7 (digital)
-https://ogietv.biz.id:443/Livetv/234/1313.m3u8
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Indonesia Channels" tvg-logo="https://cdn.macan.tv/img/trans7.png", TRANS 7
+https://delivery.macan.network/stream/id_trans7/playlist.m3u8?token=4rcee&v=20200807
 
 
 
