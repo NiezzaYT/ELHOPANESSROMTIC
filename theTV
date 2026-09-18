@@ -4,6 +4,7 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.080000,
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=12.6.0" group-title="Indonesia Channels",CNN Indonesia 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -12,13 +13,10 @@
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="Indonesia Channels" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV
-https://delivery.macan.network/stream/id_transtv/playlist.m3u8?token=4rcee&v=20200807
-
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Indonesia Channels" tvg-logo="https://cdn.macan.tv/img/trans7.png", TRANS 7
-https://delivery.macan.network/stream/id_trans7/playlist.m3u8?token=4rcee&v=20200807
-
-
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="Indonesia Channels",TRANS 7
+http://hometv.biz.id:80/play/AcfLeI36xagq_3o-erhlXg
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="TRANS TV" tvg-logo="http://hometv.biz.id:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="- LOKAL ID -",TRANS TV
+http://hometv.biz.id:80/play/6GskFkOM7FxxWEtWSOLWhQ
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="INDONESIA TV" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE DNS
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
